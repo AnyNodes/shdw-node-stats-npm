@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "shdw-node-stats-npm",
   "version": "1.0.0",
   "description": "A tool to fetch and record ShadowDrive node statistics from an API and save them to a CSV file.",
   "main": "NodeStats.js",
