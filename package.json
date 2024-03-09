@@ -1,6 +1,6 @@
 {
   "name": "shdw-node-stats-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to fetch and record ShadowDrive node statistics from an API and save them to a CSV file.",
   "main": "NodeStats.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "dependencies": {
     "axios": "^1.6.7",
     "csv-writer": "^1.6.0",
-    "luxon": "^3.4.4"
+    "luxon": "^3.4.4",
+    "nodejs-env-checker": "^1.0.10"
   }
 }
